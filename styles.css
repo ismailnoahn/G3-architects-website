@@ -5,3 +5,32 @@
   font-weight: 400;
   font-style: normal;
 }
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.bg-light {
+    background-color:rgba(255, 144, 14, 0.1);
+
+}
+.nav-links {
+    display: flex;
+    text-decoration: none;
+    
+}
+.text-gray {
+      color: #424242;
+}
+.nav-item {
+    list-style: none;
+    margin-right: 30px;
+}
+.nav-link {
+    text-decoration: none;
+    font-weight: 500;
+  
+}
+.navbar, .banner{
+max-width: 1440px;
+margin: 0 auto;
+}
