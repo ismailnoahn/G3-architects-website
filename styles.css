@@ -65,9 +65,14 @@ main{
     margin: 0 auto;
 
 }
+
 main > section{
     margin-top: 130px;
     gap: 24px;
+}
+.section-title{
+    font-size: 2.8rem;
+    font-weight: 700;
 }
 .banner-image{
     width: 100%;
@@ -84,9 +89,7 @@ main > section{
     margin-left: 130px;
     max-width: 530px;
 }
-.feature-title{
-    font-size: 2.8rem;
-}
+
 #features{
     color: #FF900E;
 }
